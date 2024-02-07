@@ -1,4 +1,3 @@
-# mangata1
 {
   "name": "JrRues",
   "website": "https://www.mersinortodontist.com.tr",
